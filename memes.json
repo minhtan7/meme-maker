@@ -1,0 +1,310 @@
+{
+  "memes": [
+    {
+      "texts": [
+        {
+          "size": 32,
+          "color": "WHITE",
+          "alignmentX": "HORIZONTAL_ALIGN_CENTER",
+          "alignmentY": "VERTICAL_ALIGN_BOTTOM",
+          "content": "This is an example"
+        }
+      ],
+      "id": 1612446596218,
+      "originalImage": "1612446596136-naruto.png",
+      "originalImagePath": "public/images/1612446596136-naruto.png",
+      "outputMemePath": "public/images/MEME_1612446596218.png",
+      "createdAt": 1612446596312,
+      "updatedAt": 1612446596312
+    },
+    {
+      "texts": [
+        {
+          "size": 32,
+          "color": "WHITE",
+          "alignmentX": "HORIZONTAL_ALIGN_CENTER",
+          "alignmentY": "VERTICAL_ALIGN_BOTTOM",
+          "content": "This is an example"
+        }
+      ],
+      "id": 1612446595534,
+      "originalImage": "1612446595457-naruto.png",
+      "originalImagePath": "public/images/1612446595457-naruto.png",
+      "outputMemePath": "public/images/MEME_1612446595534.png",
+      "createdAt": 1612446595628,
+      "updatedAt": 1612446595628
+    },
+    {
+      "texts": [
+        {
+          "size": 32,
+          "color": "WHITE",
+          "alignmentX": "HORIZONTAL_ALIGN_CENTER",
+          "alignmentY": "VERTICAL_ALIGN_BOTTOM",
+          "content": "This is an example"
+        }
+      ],
+      "id": 1612446590263,
+      "originalImage": "1612446590186-naruto.png",
+      "originalImagePath": "public/images/1612446590186-naruto.png",
+      "outputMemePath": "public/images/MEME_1612446590263.png",
+      "createdAt": 1612446590356,
+      "updatedAt": 1612446590356
+    },
+    {
+      "texts": [
+        {
+          "size": 32,
+          "color": "WHITE",
+          "alignmentX": "HORIZONTAL_ALIGN_CENTER",
+          "alignmentY": "VERTICAL_ALIGN_BOTTOM",
+          "content": "This is an example"
+        }
+      ],
+      "id": 1612446589630,
+      "originalImage": "1612446589553-naruto.png",
+      "originalImagePath": "public/images/1612446589553-naruto.png",
+      "outputMemePath": "public/images/MEME_1612446589630.png",
+      "createdAt": 1612446589719,
+      "updatedAt": 1612446589719
+    },
+    {
+      "texts": [
+        {
+          "size": 32,
+          "color": "WHITE",
+          "alignmentX": "HORIZONTAL_ALIGN_CENTER",
+          "alignmentY": "VERTICAL_ALIGN_BOTTOM",
+          "content": "This is an example"
+        }
+      ],
+      "id": 1612446589041,
+      "originalImage": "1612446588965-naruto.png",
+      "originalImagePath": "public/images/1612446588965-naruto.png",
+      "outputMemePath": "public/images/MEME_1612446589041.png",
+      "createdAt": 1612446589133,
+      "updatedAt": 1612446589133
+    },
+    {
+      "texts": [
+        {
+          "size": 32,
+          "color": "WHITE",
+          "alignmentX": "HORIZONTAL_ALIGN_CENTER",
+          "alignmentY": "VERTICAL_ALIGN_BOTTOM",
+          "content": "This is an example"
+        }
+      ],
+      "id": 1612446588334,
+      "originalImage": "1612446588254-naruto.png",
+      "originalImagePath": "public/images/1612446588254-naruto.png",
+      "outputMemePath": "public/images/MEME_1612446588334.png",
+      "createdAt": 1612446588422,
+      "updatedAt": 1612446588422
+    },
+    {
+      "texts": [
+        {
+          "size": 32,
+          "color": "WHITE",
+          "alignmentX": "HORIZONTAL_ALIGN_CENTER",
+          "alignmentY": "VERTICAL_ALIGN_BOTTOM",
+          "content": "This is an example"
+        }
+      ],
+      "id": 1612446587658,
+      "originalImage": "1612446587579-naruto.png",
+      "originalImagePath": "public/images/1612446587579-naruto.png",
+      "outputMemePath": "public/images/MEME_1612446587658.png",
+      "createdAt": 1612446587755,
+      "updatedAt": 1612446587755
+    },
+    {
+      "texts": [
+        {
+          "size": 32,
+          "color": "WHITE",
+          "alignmentX": "HORIZONTAL_ALIGN_CENTER",
+          "alignmentY": "VERTICAL_ALIGN_BOTTOM",
+          "content": "This is an example"
+        }
+      ],
+      "id": 1612446586891,
+      "originalImage": "1612446586809-naruto.png",
+      "originalImagePath": "public/images/1612446586809-naruto.png",
+      "outputMemePath": "public/images/MEME_1612446586891.png",
+      "createdAt": 1612446586986,
+      "updatedAt": 1612446586986
+    },
+    {
+      "texts": [
+        {
+          "size": 32,
+          "color": "WHITE",
+          "alignmentX": "HORIZONTAL_ALIGN_CENTER",
+          "alignmentY": "VERTICAL_ALIGN_BOTTOM",
+          "content": "This is an example"
+        }
+      ],
+      "id": 1612446586101,
+      "originalImage": "1612446586022-naruto.png",
+      "originalImagePath": "public/images/1612446586022-naruto.png",
+      "outputMemePath": "public/images/MEME_1612446586101.png",
+      "createdAt": 1612446586192,
+      "updatedAt": 1612446586192
+    },
+    {
+      "texts": [
+        {
+          "size": 32,
+          "color": "WHITE",
+          "alignmentX": "HORIZONTAL_ALIGN_CENTER",
+          "alignmentY": "VERTICAL_ALIGN_BOTTOM",
+          "content": "This is an example"
+        }
+      ],
+      "id": 1612446534068,
+      "originalImage": "1612446533988-naruto.png",
+      "originalImagePath": "public/images/1612446533988-naruto.png",
+      "outputMemePath": "public/images/MEME_1612446534068.png",
+      "createdAt": 1612446534159,
+      "updatedAt": 1612446534159
+    },
+    {
+      "texts": [
+        {
+          "size": 32,
+          "color": "WHITE",
+          "alignmentX": "HORIZONTAL_ALIGN_CENTER",
+          "alignmentY": "VERTICAL_ALIGN_BOTTOM",
+          "content": "This is an example"
+        }
+      ],
+      "id": 1612446518210,
+      "originalImage": "1612446518131-naruto.png",
+      "originalImagePath": "public/images/1612446518131-naruto.png",
+      "outputMemePath": "public/images/MEME_1612446518210.png",
+      "createdAt": 1612446518297,
+      "updatedAt": 1612446518297
+    },
+    {
+      "texts": [
+        {
+          "size": 32,
+          "color": "WHITE",
+          "alignmentX": "HORIZONTAL_ALIGN_CENTER",
+          "alignmentY": "VERTICAL_ALIGN_BOTTOM",
+          "content": "This is an example"
+        }
+      ],
+      "id": 1612446517672,
+      "originalImage": "1612446517596-naruto.png",
+      "originalImagePath": "public/images/1612446517596-naruto.png",
+      "outputMemePath": "public/images/MEME_1612446517672.png",
+      "createdAt": 1612446517762,
+      "updatedAt": 1612446517762
+    },
+    {
+      "texts": [
+        {
+          "size": 32,
+          "color": "WHITE",
+          "alignmentX": "HORIZONTAL_ALIGN_CENTER",
+          "alignmentY": "VERTICAL_ALIGN_BOTTOM",
+          "content": "This is an example"
+        }
+      ],
+      "id": 1612446517065,
+      "originalImage": "1612446516980-naruto.png",
+      "originalImagePath": "public/images/1612446516980-naruto.png",
+      "outputMemePath": "public/images/MEME_1612446517065.png",
+      "createdAt": 1612446517153,
+      "updatedAt": 1612446517153
+    },
+    {
+      "texts": [
+        {
+          "size": 32,
+          "color": "WHITE",
+          "alignmentX": "HORIZONTAL_ALIGN_CENTER",
+          "alignmentY": "VERTICAL_ALIGN_BOTTOM",
+          "content": "This is an example"
+        }
+      ],
+      "id": 1612446516379,
+      "originalImage": "1612446516303-naruto.png",
+      "originalImagePath": "public/images/1612446516303-naruto.png",
+      "outputMemePath": "public/images/MEME_1612446516379.png",
+      "createdAt": 1612446516472,
+      "updatedAt": 1612446516472
+    },
+    {
+      "texts": [
+        {
+          "size": 32,
+          "color": "WHITE",
+          "alignmentX": "HORIZONTAL_ALIGN_CENTER",
+          "alignmentY": "VERTICAL_ALIGN_BOTTOM",
+          "content": "This is an example"
+        }
+      ],
+      "id": 1612446515559,
+      "originalImage": "1612446515479-naruto.png",
+      "originalImagePath": "public/images/1612446515479-naruto.png",
+      "outputMemePath": "public/images/MEME_1612446515559.png",
+      "createdAt": 1612446515653,
+      "updatedAt": 1612446515653
+    },
+    {
+      "texts": [
+        {
+          "size": 32,
+          "color": "WHITE",
+          "alignmentX": "HORIZONTAL_ALIGN_CENTER",
+          "alignmentY": "VERTICAL_ALIGN_BOTTOM",
+          "content": "This is an example"
+        }
+      ],
+      "id": 1612446514605,
+      "originalImage": "1612446514522-naruto.png",
+      "originalImagePath": "public/images/1612446514522-naruto.png",
+      "outputMemePath": "public/images/MEME_1612446514605.png",
+      "createdAt": 1612446514699,
+      "updatedAt": 1612446514699
+    },
+    {
+      "texts": [
+        {
+          "size": 32,
+          "color": "WHITE",
+          "alignmentX": "HORIZONTAL_ALIGN_CENTER",
+          "alignmentY": "VERTICAL_ALIGN_BOTTOM",
+          "content": "This is an example"
+        }
+      ],
+      "id": 1612444914498,
+      "originalImage": "1612444914410-naruto.png",
+      "originalImagePath": "public/images/1612444914410-naruto.png",
+      "outputMemePath": "public/images/MEME_1612444914498.png",
+      "createdAt": 1612444914591,
+      "updatedAt": 1612444914591
+    },
+    {
+      "texts": [
+        {
+          "size": 32,
+          "color": "WHITE",
+          "alignmentX": "HORIZONTAL_ALIGN_CENTER",
+          "alignmentY": "VERTICAL_ALIGN_BOTTOM",
+          "content": "This is an example"
+        }
+      ],
+      "id": 1612444870528,
+      "originalImage": "1612444870450-naruto.png",
+      "originalImagePath": "public/images/1612444870450-naruto.png",
+      "outputMemePath": "public/images/MEME_1612444870528.png",
+      "createdAt": 1612444870619,
+      "updatedAt": 1612444870619
+    }
+  ]
+}
